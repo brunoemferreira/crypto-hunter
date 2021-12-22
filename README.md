@@ -16,7 +16,7 @@
 ### Links Úteis
 
 * [CoinGecko](https://www.coingecko.com/)
-  * [CoinGecko - API Documentation]()
+  * [CoinGecko - API Documentation](https://www.coingecko.com/pt/api/documentation)
 
 
 
